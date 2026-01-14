@@ -25,5 +25,8 @@
 |[足し算の結果を宿力する](https://school.programmers.co.kr/learn/courses/30/lessons/181947)|[コード](/Programmers/BasicTraining/JS/덧셈_출력하기.js)|
 |[文字列を連結して出力する](https://school.programmers.co.kr/learn/courses/30/lessons/181946)|[コード](/Programmers/BasicTraining/JS/문자열_붙여서_출력하기.js)|
 |[文字列を重なって出力する](https://school.programmers.co.kr/learn/courses/30/lessons/181943)|[コード](/Programmers/BasicTraining/JS/문자열_겹쳐쓰기.js)|
+|[文字列を交互に組み合わせる](https://school.programmers.co.kr/learn/courses/30/lessons/181942)|[コード](/Programmers/BasicTraining/JS/문자열_섞기.js)|
+|[リストを文字列に変換](https://school.programmers.co.kr/learn/courses/30/lessons/181941)|[コード](/Programmers/BasicTraining/JS/문자_리스트를_문자열로_반환.js)|
+|[もっと大きい数字に合わせる](https://school.programmers.co.kr/learn/courses/30/lessons/181939)|[コード](/Programmers/BasicTraining/JS/더_크게_합치기.js)|
 
 </details>

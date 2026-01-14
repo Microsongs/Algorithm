@@ -24,5 +24,8 @@
 |[덧셈 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)|[코드](/Programmers/BasicTraining/JS/덧셈_출력하기.js)|
 |[문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)|[코드](/Programmers/BasicTraining/JS/문자열_붙여서_출력하기.js)|
 |[문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)|[코드](/Programmers/BasicTraining/JS/문자열_겹쳐쓰기.js)|
+|[문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)|[코드](/Programmers/BasicTraining/JS/문자열_섞기.js)|
+|[리스트를 문자열로 반환](https://school.programmers.co.kr/learn/courses/30/lessons/181941)|[코드](/Programmers/BasicTraining/JS/문자_리스트를_문자열로_반환.js)|
+|[더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)|[코드](/Programmers/BasicTraining/JS/더_크게_합치기.js)|
 
 </details>
