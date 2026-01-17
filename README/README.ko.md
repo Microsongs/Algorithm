@@ -32,5 +32,10 @@
 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937)                      | [코드](/Programmers/BasicTraining/JS/n의_배수.js)                      |
 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)                   | [코드](/Programmers/BasicTraining/JS/조건_문자열.js)                   |
 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933)  | [코드](/Programmers/BasicTraining/JS/flag에따라_다른값_반환하기.js)    |
+| [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)                 | [코드](/Programmers/BasicTraining/JS/코드_처리하기.js)                 |
+| [등차수열의 특정 수만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)   | [코드](/Programmers/BasicTraining/JS/등차수열_특정_항만_더하기.js)     |
+| [주사위 게임2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)                  | [코드](/Programmers/BasicTraining/JS/주사위_게임2.js)                  |
+| [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)              | [코드](/Programmers/BasicTraining/JS/원소들의_곱과합.js)               |
+| [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)                  | [코드](/Programmers/BasicTraining/JS/이어붙인수.js)                    |
 
 </details>

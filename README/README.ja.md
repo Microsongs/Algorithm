@@ -32,5 +32,10 @@
 | [n の倍数](https://school.programmers.co.kr/learn/courses/30/lessons/181937)                           | [コード](/Programmers/BasicTraining/JS/n의_배수.js)                      |
 | [条件文字列](https://school.programmers.co.kr/learn/courses/30/lessons/181934)                         | [コード](/Programmers/BasicTraining/JS/조건_문자열.js)                   |
 | [flag についてほかの数字を出す](https://school.programmers.co.kr/learn/courses/30/lessons/181933)      | [コード](/Programmers/BasicTraining/JS/flag에따라_다른값_반환하기.js)    |
+| [コード処理する](https://school.programmers.co.kr/learn/courses/30/lessons/181932)                     | [コード](/Programmers/BasicTraining/JS/코드_처리하기.js)                 |
+| [特定の数だけ足す](https://school.programmers.co.kr/learn/courses/30/lessons/181931)                   | [コード](/Programmers/BasicTraining/JS/등차수열_특정_항만_더하기.js)     |
+| [ダイスゲーム2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)                      | [코드](/Programmers/BasicTraining/JS/주사위_게임2.js)                    |
+| [要素ごとの和と積](https://school.programmers.co.kr/learn/courses/30/lessons/181929)                   | [코드](/Programmers/BasicTraining/JS/원소들의_곱과합.js)                 |
+| [後ろに追加した数](https://school.programmers.co.kr/learn/courses/30/lessons/181928)                   | [코드](/Programmers/BasicTraining/JS/이어붙인수.js)                      |
 
 </details>
