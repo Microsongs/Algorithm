@@ -37,5 +37,10 @@
 | [주사위 게임2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)                  | [코드](/Programmers/BasicTraining/JS/주사위_게임2.js)                  |
 | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)              | [코드](/Programmers/BasicTraining/JS/원소들의_곱과합.js)               |
 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)                  | [코드](/Programmers/BasicTraining/JS/이어붙인수.js)                    |
+| [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927)                | [코드](/Programmers/BasicTraining/JS/마지막_두원소.js)                 |
+| [수 조작하기1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)                  | [코드](/Programmers/BasicTraining/JS/수_조작하기1.js)                  |
+| [수 조작하기2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)                  | [코드](/Programmers/BasicTraining/JS/수_조작하기2.js)                  |
+| [수열과 구간쿼리3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)              | [코드](/Programmers/BasicTraining/JS/수열과_구간쿼리3.js)              |
+| [수열과 구간쿼리2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)              | [코드](/Programmers/BasicTraining/JS/수열과_구간쿼리2.js)              |
 
 </details>
