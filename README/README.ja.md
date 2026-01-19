@@ -42,5 +42,10 @@
 | [数を操作する2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)                      | [コード](/Programmers/BasicTraining/JS/수_조작하기2.js)                  |
 | [数列と区間クエリー3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)                | [コード](/Programmers/BasicTraining/JS/수열과_구간쿼리3.js)              |
 | [数列と区間クエリー2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)                | [コード](/Programmers/BasicTraining/JS/수열과_구간쿼리2.js)              |
+| [数列と区間クエリー4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)                | [コード](/Programmers/BasicTraining/JS/수열과_구간쿼리4.js)              |
+| [配列作り2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)                          | [コード](/Programmers/BasicTraining/JS/배열_만들기2.js)                  |
+| [カウントアップ](https://school.programmers.co.kr/learn/courses/30/lessons/181920)                     | [コード](/Programmers/BasicTraining/JS/카운트_업.js)                     |
+| [コラッツ数列](https://school.programmers.co.kr/learn/courses/30/lessons/181919)                       | [コード](/Programmers/BasicTraining/JS/콜라츠_수열.js)                   |
+| [配列作り4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)                          | [コード](/Programmers/BasicTraining/JS/배열_만들기4.js)                  |
 
 </details>

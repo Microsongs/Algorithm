@@ -42,5 +42,10 @@
 | [수 조작하기2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)                  | [코드](/Programmers/BasicTraining/JS/수_조작하기2.js)                  |
 | [수열과 구간쿼리3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)              | [코드](/Programmers/BasicTraining/JS/수열과_구간쿼리3.js)              |
 | [수열과 구간쿼리2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)              | [코드](/Programmers/BasicTraining/JS/수열과_구간쿼리2.js)              |
+| [수열과 구간쿼리4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)              | [코드](/Programmers/BasicTraining/JS/수열과_구간쿼리4.js)              |
+| [배열 만들기2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)                  | [코드](/Programmers/BasicTraining/JS/배열_만들기2.js)                  |
+| [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920)                     | [코드](/Programmers/BasicTraining/JS/카운트_업.js)                     |
+| [콜라츠 수열](https://school.programmers.co.kr/learn/courses/30/lessons/181919)                   | [코드](/Programmers/BasicTraining/JS/콜라츠_수열.js)                   |
+| [배열 만들기4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)                  | [코드](/Programmers/BasicTraining/JS/배열_만들기4.js)                  |
 
 </details>
