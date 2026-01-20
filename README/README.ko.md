@@ -47,5 +47,7 @@
 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920)                     | [코드](/Programmers/BasicTraining/JS/카운트_업.js)                     |
 | [콜라츠 수열](https://school.programmers.co.kr/learn/courses/30/lessons/181919)                   | [코드](/Programmers/BasicTraining/JS/콜라츠_수열.js)                   |
 | [배열 만들기4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)                  | [코드](/Programmers/BasicTraining/JS/배열_만들기4.js)                  |
+| [간단한 논리연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917)               | [코드](/Programmers/BasicTraining/JS/간단한_논리연산.js)               |
+| [주사위 게임3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                  | [코드](/Programmers/BasicTraining/JS/주사위_게임3.js)                  |
 
 </details>

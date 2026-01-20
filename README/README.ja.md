@@ -47,5 +47,7 @@
 | [カウントアップ](https://school.programmers.co.kr/learn/courses/30/lessons/181920)                     | [コード](/Programmers/BasicTraining/JS/카운트_업.js)                     |
 | [コラッツ数列](https://school.programmers.co.kr/learn/courses/30/lessons/181919)                       | [コード](/Programmers/BasicTraining/JS/콜라츠_수열.js)                   |
 | [配列作り4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)                          | [コード](/Programmers/BasicTraining/JS/배열_만들기4.js)                  |
+| [簡単な論理演算](https://school.programmers.co.kr/learn/courses/30/lessons/181917)                     | [コード](/Programmers/BasicTraining/JS/간단한_논리연산.js)               |
+| [ダイスゲーム3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                      | [コード](/Programmers/BasicTraining/JS/주사위_게임3.js)                  |
 
 </details>
