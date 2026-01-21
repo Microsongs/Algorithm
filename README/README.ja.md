@@ -49,5 +49,7 @@
 | [配列作り4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)                          | [コード](/Programmers/BasicTraining/JS/배열_만들기4.js)                  |
 | [簡単な論理演算](https://school.programmers.co.kr/learn/courses/30/lessons/181917)                     | [コード](/Programmers/BasicTraining/JS/간단한_논리연산.js)               |
 | [ダイスゲーム3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                      | [コード](/Programmers/BasicTraining/JS/주사위_게임3.js)                  |
+| [文字を連結して文字列を作る](https://school.programmers.co.kr/learn/courses/30/lessons/181915)         | [コード](/Programmers/BasicTraining/JS/문자열_붙여서_출력하기.js)        |
+| [9で割った余り](https://school.programmers.co.kr/learn/courses/30/lessons/181914)                      | [コード](/Programmers/BasicTraining/JS/9로나눈_나머지.js)                |
 
 </details>

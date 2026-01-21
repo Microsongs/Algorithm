@@ -49,5 +49,7 @@
 | [배열 만들기4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)                  | [코드](/Programmers/BasicTraining/JS/배열_만들기4.js)                  |
 | [간단한 논리연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917)               | [코드](/Programmers/BasicTraining/JS/간단한_논리연산.js)               |
 | [주사위 게임3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                  | [코드](/Programmers/BasicTraining/JS/주사위_게임3.js)                  |
+| [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181915)        | [코드](/Programmers/BasicTraining/JS/문자열_붙여서_출력하기.js)        |
+| [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914)               | [코드](/Programmers/BasicTraining/JS/9로나눈_나머지.js)                |
 
 </details>
