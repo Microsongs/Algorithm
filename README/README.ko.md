@@ -51,5 +51,10 @@
 | [주사위 게임3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                  | [코드](/Programmers/BasicTraining/JS/주사위_게임3.js)                  |
 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181915)        | [코드](/Programmers/BasicTraining/JS/문자열_붙여서_출력하기.js)        |
 | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914)               | [코드](/Programmers/BasicTraining/JS/9로나눈_나머지.js)                |
+| [문자열 여러번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)          | [코드](/Programmers/BasicTraining/Python/문자열_여러번_뒤집기.py)      |
+| [배열 만들기5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)                  | [코드](/Programmers/BasicTraining/Python/배열_만들기5.py)              |
+| [문자열 이어붙이기](https://school.programmers.co.kr/learn/courses/30/lessons/181911)             | [코드](/Programmers/BasicTraining/Python/문자열_이어붙이기.py)         |
+| [문자열 뒤 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)               | [코드](/Programmers/BasicTraining/Python/문자열_뒤_n글자.py)           |
+| [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)                   | [코드](/Programmers/BasicTraining/Python/접미사_배열.py)               |
 
 </details>

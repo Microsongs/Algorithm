@@ -51,5 +51,10 @@
 | [ダイスゲーム3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                      | [コード](/Programmers/BasicTraining/JS/주사위_게임3.js)                  |
 | [文字を連結して文字列を作る](https://school.programmers.co.kr/learn/courses/30/lessons/181915)         | [コード](/Programmers/BasicTraining/JS/문자열_붙여서_출력하기.js)        |
 | [9で割った余り](https://school.programmers.co.kr/learn/courses/30/lessons/181914)                      | [コード](/Programmers/BasicTraining/JS/9로나눈_나머지.js)                |
+| [文字列を数回返し](https://school.programmers.co.kr/learn/courses/30/lessons/181913)                   | [コード](/Programmers/BasicTraining/Python/문자열*여러번*뒤집기.py)      |
+| [配列作り5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)                          | [コード](/Programmers/BasicTraining/Python/배열_만들기5.py)              |
+| [文字列を連結](https://school.programmers.co.kr/learn/courses/30/lessons/181911)                       | [コード](/Programmers/BasicTraining/Python/문자열_이어붙이기.py)         |
+| [文字列の後ろのn文字](https://school.programmers.co.kr/learn/courses/30/lessons/181910)                | [コード](/Programmers/BasicTraining/Python/문자열_뒤_n글자.py)           |
+| [接尾辞配列](https://school.programmers.co.kr/learn/courses/30/lessons/181909)                         | [コード](/Programmers/BasicTraining/Python/접미사_배열.py)               |
 
 </details>
