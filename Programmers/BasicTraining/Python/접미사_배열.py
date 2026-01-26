@@ -8,4 +8,4 @@ def solution(my_string):
     return answer
 
 # 추가 공부사항
-# append할 때 my_string[-i:]로도 가능
+# append할 때 my_string[-i-1:]로도 가능

@@ -56,5 +56,8 @@
 | [文字列を連結](https://school.programmers.co.kr/learn/courses/30/lessons/181911)                       | [コード](/Programmers/BasicTraining/Python/문자열_이어붙이기.py)         |
 | [文字列の後ろのn文字](https://school.programmers.co.kr/learn/courses/30/lessons/181910)                | [コード](/Programmers/BasicTraining/Python/문자열_뒤_n글자.py)           |
 | [接尾辞配列](https://school.programmers.co.kr/learn/courses/30/lessons/181909)                         | [コード](/Programmers/BasicTraining/Python/접미사_배열.py)               |
+| [接尾辞チェック](https://school.programmers.co.kr/learn/courses/30/lessons/181908)                     | [コード](/Programmers/BasicTraining/Python/접미사_확인.py)               |
+| [文字列前のN文字](https://school.programmers.co.kr/learn/courses/30/lessons/181907)                    | [コード](/Programmers/BasicTraining/JS/문자열_앞_n글자.js)               |
+| [接頭辞チェック](https://school.programmers.co.kr/learn/courses/30/lessons/181906)                     | [コード](/Programmers/BasicTraining/JS/접두사_확인.js)                   |
 
 </details>
