@@ -59,5 +59,8 @@
 | [접미사 확인](https://school.programmers.co.kr/learn/courses/30/lessons/181908)                   | [코드](/Programmers/BasicTraining/Python/접미사_확인.py)               |
 | [문자열 앞 N글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907)               | [코드](/Programmers/BasicTraining/JS/문자열_앞_n글자.js)               |
 | [접두사 확인](https://school.programmers.co.kr/learn/courses/30/lessons/181906)                   | [코드](/Programmers/BasicTraining/JS/접두사_확인.js)                   |
+| [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                 | [코드](/Programmers/BasicTraining/JS/문자열_뒤집기.js)                 |
+| [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)                     | [코드](/Programmers/BasicTraining/JS/세로_읽기.js)                     |
+| [QR코드](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                        | [코드](/Programmers/BasicTraining/JS/QR코드.js)                        |
 
 </details>

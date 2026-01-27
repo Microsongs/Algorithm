@@ -59,5 +59,8 @@
 | [接尾辞チェック](https://school.programmers.co.kr/learn/courses/30/lessons/181908)                     | [コード](/Programmers/BasicTraining/Python/접미사_확인.py)               |
 | [文字列前のN文字](https://school.programmers.co.kr/learn/courses/30/lessons/181907)                    | [コード](/Programmers/BasicTraining/JS/문자열_앞_n글자.js)               |
 | [接頭辞チェック](https://school.programmers.co.kr/learn/courses/30/lessons/181906)                     | [コード](/Programmers/BasicTraining/JS/접두사_확인.js)                   |
+| [文字列取返し](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                       | [コード](/Programmers/BasicTraining/JS/문자열_뒤집기.js)                 |
+| [縦読み](https://school.programmers.co.kr/learn/courses/30/lessons/181904)                             | [コード](/Programmers/BasicTraining/JS/세로_읽기.js)                     |
+| [QRコード](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                           | [コード](/Programmers/BasicTraining/JS/QR코드.js)                        |
 
 </details>
