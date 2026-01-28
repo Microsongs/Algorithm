@@ -62,5 +62,7 @@
 | [文字列取返し](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                       | [コード](/Programmers/BasicTraining/JS/문자열_뒤집기.js)                 |
 | [縦読み](https://school.programmers.co.kr/learn/courses/30/lessons/181904)                             | [コード](/Programmers/BasicTraining/JS/세로_읽기.js)                     |
 | [QRコード](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                           | [コード](/Programmers/BasicTraining/JS/QR코드.js)                        |
+| [文字の数を数える](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                   | [コード](/Programmers/BasicTraining/JS/문자_개수세기.js)                 |
+| [配列作り1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                          | [コード](/Programmers/BasicTraining/JS/배열_만들기1.js)                  |
 
 </details>

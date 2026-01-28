@@ -62,5 +62,7 @@
 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                 | [코드](/Programmers/BasicTraining/JS/문자열_뒤집기.js)                 |
 | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)                     | [코드](/Programmers/BasicTraining/JS/세로_읽기.js)                     |
 | [QR코드](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                        | [코드](/Programmers/BasicTraining/JS/QR코드.js)                        |
+| [문자 개수세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                 | [코드](/Programmers/BasicTraining/JS/문자_개수세기.js)                 |
+| [배열 만들기1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                  | [코드](/Programmers/BasicTraining/JS/배열_만들기1.js)                  |
 
 </details>
