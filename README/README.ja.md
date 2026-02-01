@@ -64,5 +64,7 @@
 | [QRコード](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                           | [コード](/Programmers/BasicTraining/JS/QR코드.js)                        |
 | [文字の数を数える](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                   | [コード](/Programmers/BasicTraining/JS/문자_개수세기.js)                 |
 | [配列作り1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                          | [コード](/Programmers/BasicTraining/JS/배열_만들기1.js)                  |
+| [字を消す](https://school.programmers.co.kr/learn/courses/30/lessons/181900)                           | [コード](/Programmers/BasicTraining/JS/글자_지우기.js)                   |
+| [カウントダウン](https://school.programmers.co.kr/learn/courses/30/lessons/181899)                     | [コード](/Programmers/BasicTraining/Python/카운트_다운.py)               |
 
 </details>

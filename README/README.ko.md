@@ -64,5 +64,7 @@
 | [QR코드](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                        | [코드](/Programmers/BasicTraining/JS/QR코드.js)                        |
 | [문자 개수세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                 | [코드](/Programmers/BasicTraining/JS/문자_개수세기.js)                 |
 | [배열 만들기1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                  | [코드](/Programmers/BasicTraining/JS/배열_만들기1.js)                  |
+| [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)                   | [코드](/Programmers/BasicTraining/JS/글자_지우기.js)                   |
+| [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899)                    | [코드](/Programmers/BasicTraining/Python/카운트_다운.py)               |
 
 </details>
