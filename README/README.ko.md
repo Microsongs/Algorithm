@@ -66,5 +66,9 @@
 | [배열 만들기1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                  | [코드](/Programmers/BasicTraining/JS/배열_만들기1.js)                  |
 | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)                   | [코드](/Programmers/BasicTraining/JS/글자_지우기.js)                   |
 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899)                    | [코드](/Programmers/BasicTraining/Python/카운트_다운.py)               |
+| [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)                 | [코드](/Programmers/BasicTraining/Python/가까운1찾기.py)               |
+| [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)                 | [코드](/Programmers/BasicTraining/Python/리스트_자르기.py)             |
+| [첫번째 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)                   | [코드](/Programmers/BasicTraining/Python/첫번째_음수.py)               |
+| [배열 만들기3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                  | [코드](/Programmers/BasicTraining/Python/배열_만들기3.py)              |
 
 </details>

@@ -66,5 +66,9 @@
 | [配列作り1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                          | [コード](/Programmers/BasicTraining/JS/배열_만들기1.js)                  |
 | [字を消す](https://school.programmers.co.kr/learn/courses/30/lessons/181900)                           | [コード](/Programmers/BasicTraining/JS/글자_지우기.js)                   |
 | [カウントダウン](https://school.programmers.co.kr/learn/courses/30/lessons/181899)                     | [コード](/Programmers/BasicTraining/Python/카운트_다운.py)               |
+| [近くの一を探す](https://school.programmers.co.kr/learn/courses/30/lessons/181898)                     | [コード](/Programmers/BasicTraining/Python/가까운1찾기.py)               |
+| [リスト切り](https://school.programmers.co.kr/learn/courses/30/lessons/181897)                         | [コード](/Programmers/BasicTraining/Python/리스트_자르기.py)             |
+| [初めて出た負数](https://school.programmers.co.kr/learn/courses/30/lessons/181896)                     | [コード](/Programmers/BasicTraining/Python/첫번째_음수.py)               |
+| [配列作り3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                          | [コード](/Programmers/BasicTraining/Python/배열_만들기3.py)              |
 
 </details>
