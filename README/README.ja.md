@@ -70,5 +70,6 @@
 | [リスト切り](https://school.programmers.co.kr/learn/courses/30/lessons/181897)                         | [コード](/Programmers/BasicTraining/Python/리스트_자르기.py)             |
 | [初めて出た負数](https://school.programmers.co.kr/learn/courses/30/lessons/181896)                     | [コード](/Programmers/BasicTraining/Python/첫번째_음수.py)               |
 | [配列作り3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                          | [コード](/Programmers/BasicTraining/Python/배열_만들기3.py)              |
+|[2の領域](https://school.programmers.co.kr/learn/courses/30/lessons/181894)|[コード](/Algorithm/Programmers/BasicTraining/Python/2의영역.py)|
 
 </details>
