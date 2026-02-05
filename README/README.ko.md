@@ -70,5 +70,7 @@
 | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)                 | [코드](/Programmers/BasicTraining/Python/리스트_자르기.py)             |
 | [첫번째 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)                   | [코드](/Programmers/BasicTraining/Python/첫번째_음수.py)               |
 | [배열 만들기3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                  | [코드](/Programmers/BasicTraining/Python/배열_만들기3.py)              |
+| [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                      | [코드](/Programmers/BasicTraining/Python/2의영역.py)                   |
+| [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                 | [코드](/Programmers/BasicTraining/Python/배열_조각하기.py)             |
 
 </details>
