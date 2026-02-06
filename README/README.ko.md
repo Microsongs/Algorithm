@@ -72,5 +72,7 @@
 | [배열 만들기3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                  | [코드](/Programmers/BasicTraining/Python/배열_만들기3.py)              |
 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                      | [코드](/Programmers/BasicTraining/Python/2의영역.py)                   |
 | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                 | [코드](/Programmers/BasicTraining/Python/배열_조각하기.py)             |
+| [N번쨰](https://school.programmers.co.kr/learn/courses/30/lessons/181892)                         | [코드](/Programmers/BasicTraining/Python/N번째.py)                     |
+| [순서바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)                    | [코드](/Programmers/BasicTraining/Python/순서바꾸기.py)                |
 
 </details>
