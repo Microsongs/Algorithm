@@ -74,5 +74,6 @@
 | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                 | [코드](/Programmers/BasicTraining/Python/배열_조각하기.py)             |
 | [N번쨰](https://school.programmers.co.kr/learn/courses/30/lessons/181892)                         | [코드](/Programmers/BasicTraining/Python/N번째.py)                     |
 | [순서바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)                    | [코드](/Programmers/BasicTraining/Python/순서바꾸기.py)                |
+| [왼쪽오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                    | [코드](/Programmers/BasicTraining/Python/왼쪽_오른쪽.py)               |
 
 </details>
