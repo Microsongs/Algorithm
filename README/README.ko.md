@@ -76,5 +76,6 @@
 | [순서바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)                    | [코드](/Programmers/BasicTraining/Python/순서바꾸기.py)                |
 | [왼쪽오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                    | [코드](/Programmers/BasicTraining/Python/왼쪽_오른쪽.py)               |
 | [n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)                | [코드](/Programmers/BasicTraining/Python/n번쨰_원소까지.py)            |
+| [n개 간격 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)               | [코드](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
 
 </details>
