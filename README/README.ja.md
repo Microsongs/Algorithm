@@ -75,5 +75,6 @@
 | [N番目から](https://school.programmers.co.kr/learn/courses/30/lessons/181892)                          | [コード](/Programmers/BasicTraining/Python/N번째.py)                     |
 | [順序逆に](https://school.programmers.co.kr/learn/courses/30/lessons/181891)                           | [コード](/Programmers/BasicTraining/Python/순서바꾸기.py)                |
 | [左右](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                               | [コード](/Programmers/BasicTraining/Python/왼쪽_오른쪽.py)               |
+| [n番目元素まで](https://school.programmers.co.kr/learn/courses/30/lessons/181889)                      | [コード](/Programmers/BasicTraining/Python/n번쨰_원소까지.py)            |
 
 </details>
