@@ -77,5 +77,7 @@
 | [左右](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                               | [コード](/Programmers/BasicTraining/Python/왼쪽_오른쪽.py)               |
 | [n番目元素まで](https://school.programmers.co.kr/learn/courses/30/lessons/181889)                      | [コード](/Programmers/BasicTraining/Python/n번쨰_원소까지.py)            |
 | [N個間隔の要素たち](https://school.programmers.co.kr/learn/courses/30/lessons/181888)                  | [コード](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
+| [5名](https://school.programmers.co.kr/learn/courses/30/lessons/181886)                                | [コード](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
+| [Todoリスト](https://school.programmers.co.kr/learn/courses/30/lessons/181885)                         | [コード](/Programmers/BasicTraining/Python/할일목록.py)                  |
 
 </details>

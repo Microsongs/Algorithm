@@ -77,5 +77,7 @@
 | [왼쪽오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                    | [코드](/Programmers/BasicTraining/Python/왼쪽_오른쪽.py)               |
 | [n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)                | [코드](/Programmers/BasicTraining/Python/n번쨰_원소까지.py)            |
 | [n개 간격 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)               | [코드](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
+| [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)                         | [코드](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
+| [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)                    | [코드](/Programmers/BasicTraining/Python/할일목록.py)                  |
 
 </details>
