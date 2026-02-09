@@ -79,5 +79,6 @@
 | [n개 간격 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)               | [코드](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)                         | [코드](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)                    | [코드](/Programmers/BasicTraining/Python/할일목록.py)                  |
+|[n보다 커질때까지](https://school.programmers.co.kr/learn/courses/30/lessons/181884)|[코드](/Programmers/BasicTraining/Python/n보다_커질떄까지.py)|
 
 </details>

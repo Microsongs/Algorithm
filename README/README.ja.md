@@ -79,5 +79,6 @@
 | [N個間隔の要素たち](https://school.programmers.co.kr/learn/courses/30/lessons/181888)                  | [コード](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
 | [5名](https://school.programmers.co.kr/learn/courses/30/lessons/181886)                                | [コード](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
 | [Todoリスト](https://school.programmers.co.kr/learn/courses/30/lessons/181885)                         | [コード](/Programmers/BasicTraining/Python/할일목록.py)                  |
+|[nより高く](https://school.programmers.co.kr/learn/courses/30/lessons/181884)|[コード](/Programmers/BasicTraining/Python/n보다_커질떄까지.py)|
 
 </details>
