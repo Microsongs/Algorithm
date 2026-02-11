@@ -80,5 +80,8 @@
 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)                         | [코드](/Programmers/BasicTraining/Python/n개_간격_원소들.py)           |
 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)                    | [코드](/Programmers/BasicTraining/Python/할일목록.py)                  |
 |[n보다 커질때까지](https://school.programmers.co.kr/learn/courses/30/lessons/181884)|[코드](/Programmers/BasicTraining/Python/n보다_커질떄까지.py)|
+|[수열과 구간쿼리1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)|[코드](/Programmers/BasicTraining/Python/수열과_구간쿼리1.py)|
+|[조건에 맞는 수열1](https://school.programmers.co.kr/learn/courses/30/lessons/181882)|[코드](/Programmers/BasicTraining/Python/조건에_맞는_수열1.py)|
+|[조건에 맞는 수열2](https://school.programmers.co.kr/learn/courses/30/lessons/181881)|[코드](/Programmers/BasicTraining/Python/조건에_맞는_수열2.py)|
 
 </details>
