@@ -83,5 +83,7 @@
 |[数列と区間クエリー１](https://school.programmers.co.kr/learn/courses/30/lessons/181883)|[コード](/Programmers/BasicTraining/Python/수열과_구간쿼리1.py)|
 |[条件に合う数列1](https://school.programmers.co.kr/learn/courses/30/lessons/181882)|[コード](/Programmers/BasicTraining/Python/조건에_맞는_수열1.py)|
 |[条件に合う数列2](https://school.programmers.co.kr/learn/courses/30/lessons/181881)|[コード](/Programmers/BasicTraining/Python/조건에_맞는_수열2.py)|
+|[一で作ろう](https://school.programmers.co.kr/learn/courses/30/lessons/181880)|[コード](/Programmers/BasicTraining/Python/1로만들기.py)|
+|[長さについた演算](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|[コード](/Programmers/BasicTraining/Python/길이에_따른_연산.py)|
 
 </details>
