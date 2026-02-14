@@ -85,5 +85,8 @@
 |[조건에 맞는 수열2](https://school.programmers.co.kr/learn/courses/30/lessons/181881)|[코드](/Programmers/BasicTraining/Python/조건에_맞는_수열2.py)|
 |[1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)|[코드](/Programmers/BasicTraining/Python/1로만들기.py)|
 |[길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|[코드](/Programmers/BasicTraining/Python/길이에_따른_연산.py)|
+|[원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[코드](/Programmers/BasicTraining/Python/원하는_문자열_찾기.py)| 
+|[대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|[코드](/Programmers/BasicTraining/Python/대문자_바꾸기.py)|
+|[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[코드](/Programmers/BasicTraining/Python/소문자_바꾸기.py)|
 
 </details>
