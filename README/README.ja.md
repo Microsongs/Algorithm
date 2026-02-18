@@ -88,5 +88,7 @@
 |[探した文字列を探す](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[コード](/Programmers/BasicTraining/Python/원하는_문자열_찾기.py)| 
 |[大文字に変える](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|[コード](/Programmers/BasicTraining/Python/대문자_바꾸기.py)|
 |[小文字に変える](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[コード](/Programmers/BasicTraining/Python/소문자_바꾸기.py)|
+|[大小文字変換](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|[コード](/Programmers/BasicTraining/Python/대소문자_변환.py)|
+|[A強調](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|[コード](/Programmers/BasicTraining/Python/A강조.py)|
 
 </details>
