@@ -90,5 +90,7 @@
 |[小文字に変える](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[コード](/Programmers/BasicTraining/Python/소문자_바꾸기.py)|
 |[大小文字変換](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|[コード](/Programmers/BasicTraining/Python/대소문자_변환.py)|
 |[A強調](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|[コード](/Programmers/BasicTraining/Python/A강조.py)|
+|[特定な文字を大文字手変換する](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|[コード](/Programmers/BasicTraining/Python/특정문자_대문자로.py)|
+|[特徴な文字で終わる一番長い文字列](https://school.programmers.co.kr/learn/courses/30/lessons/181872)|[コード](/Programmers/BasicTraining/Python/특정문자_끝나는_가장긴_문자열.py)|
 
 </details>

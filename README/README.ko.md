@@ -90,5 +90,7 @@
 |[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[코드](/Programmers/BasicTraining/Python/소문자_바꾸기.py)|
 |[대소문자 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|[코드](/Programmers/BasicTraining/Python/대소문자_변환.py)|
 |[A강조](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|[코드](/Programmers/BasicTraining/Python/A강조.py)|
+|[특정한 문자를 대문자로](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|[코드](/Programmers/BasicTraining/Python/특정문자_대문자로.py)|
+|[특정한 문자로 끝나는 가장 긴 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181872)|[코드](/Programmers/BasicTraining/Python/특정문자_끝나는_가장긴_문자열.py)|
 
 </details>
