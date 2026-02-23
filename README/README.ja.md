@@ -92,5 +92,6 @@
 |[A強調](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|[コード](/Programmers/BasicTraining/Python/A강조.py)|
 |[特定な文字を大文字手変換する](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|[コード](/Programmers/BasicTraining/Python/특정문자_대문자로.py)|
 |[特徴な文字で終わる一番長い文字列](https://school.programmers.co.kr/learn/courses/30/lessons/181872)|[コード](/Programmers/BasicTraining/Python/특정문자_끝나는_가장긴_문자열.py)|
+|[文字列の登場回数を数える](https://school.programmers.co.kr/learn/courses/30/lessons/181871)|[コード](/Programmers/BasicTraining/JS/문자열_등장횟수.js)|
 
 </details>
