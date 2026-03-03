@@ -93,5 +93,7 @@
 |[특정한 문자를 대문자로](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|[코드](/Programmers/BasicTraining/Python/특정문자_대문자로.py)|
 |[특정한 문자로 끝나는 가장 긴 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181872)|[코드](/Programmers/BasicTraining/Python/특정문자_끝나는_가장긴_문자열.py)|
 |[문자열 등장횟수 세는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/181871)|[코드](/Programmers/BasicTraining/JS/문자열_등장횟수.js)|
+|[ad제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)|[코드](/Programmers/BasicTraining/JS/ad제거하기.js)|
+|[공백으로 구분하기1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)|[코드](/Programmers/BasicTraining/JS/공백으로_구문하기1.js)|
 
 </details>
