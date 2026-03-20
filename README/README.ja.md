@@ -85,7 +85,7 @@
 |[条件に合う数列2](https://school.programmers.co.kr/learn/courses/30/lessons/181881)|[コード](/Programmers/BasicTraining/Python/조건에_맞는_수열2.py)|
 |[一で作ろう](https://school.programmers.co.kr/learn/courses/30/lessons/181880)|[コード](/Programmers/BasicTraining/Python/1로만들기.py)|
 |[長さについた演算](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|[コード](/Programmers/BasicTraining/Python/길이에_따른_연산.py)|
-|[探した文字列を探す](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[コード](/Programmers/BasicTraining/Python/원하는_문자열_찾기.py)| 
+|[探した文字列を探す](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[コード](/Programmers/BasicTraining/Python/원하는_문자열_찾기.py)|
 |[大文字に変える](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|[コード](/Programmers/BasicTraining/Python/대문자_바꾸기.py)|
 |[小文字に変える](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[コード](/Programmers/BasicTraining/Python/소문자_바꾸기.py)|
 |[大小文字変換](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|[コード](/Programmers/BasicTraining/Python/대소문자_변환.py)|
@@ -95,5 +95,7 @@
 |[文字列の登場回数を数える](https://school.programmers.co.kr/learn/courses/30/lessons/181871)|[コード](/Programmers/BasicTraining/JS/문자열_등장횟수.js)|
 |[adを消す](https://school.programmers.co.kr/learn/courses/30/lessons/181870)|[コード](/Programmers/BasicTraining/JS/ad제거하기.js)|
 |[空白で区別する1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)|[コード](/Programmers/BasicTraining/JS/공백으로_구문하기1.js)|
+|[文字列切って整列する](https://school.programmers.co.kr/learn/courses/30/lessons/181866)|[コード](/Programmers/BasicTraining/Python/문자열_잘라서_정리하기.py)|
+|[簡単な数式](https://school.programmers.co.kr/learn/courses/30/lessons/181865)|[コード](/Programmers/BasicTraining/Python/간단한식.py)|
 
 </details>
